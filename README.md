@@ -1,2 +1,2 @@
 # .netcore-crud-EFCORE
-CRUD using .netcore and EFCore.
+CRUD using .netcore and EFCore using Mysql.
